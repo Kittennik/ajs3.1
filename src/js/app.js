@@ -1,4 +1,4 @@
-import person from './person.js';
+import person from './person';
 
 export default function personHealth(object) {
   let status;

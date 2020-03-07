@@ -1,4 +1,4 @@
-import personHealth from '../js/app.js';
+import personHealth from '../js/app';
 
 test('Здоровый', () => {
   const person = {
